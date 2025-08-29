@@ -28,14 +28,20 @@
     <th>📅 Issued Date</th>
     <th>🔗 Link</th>
   </tr>
+  
+<tr style="background-color:#111827; color:#e0e0e0;">
+  <td align="center"><b>1</b></td>
+  <td>
+    <b>Introduction to Cybersecurity</b><br>
+    <span style="color:#4caf50;">✅ Completed</span>
+  </td>
+  <td align="center">Apr 19, 2025</td>
+  <td align="center">
+    <a href="https://www.credly.com/earner/earned/badge/5a455c5a-9cd3-4d85-97fe-976191035772" style="color:#4cc9f0;" target="_blank">View ➝</a>
+    <p style="font-size:12px; color:#aaa;">Cybersecurity basics, threats, and protection strategies.</p>
+  </td>
+</tr>
 
-  <tr style="background-color:#111827; color:#e0e0e0;">
-    <td align="center"><b>1</b></td>
-    <td><b>Introduction to Cybersecurity</b></td>
-    <td align="center">Apr 19, 2025</td>
-    <td align="center">
-      <a <a href="https://www.credly.com/users/hamzah-al-shamsi" style="color:#4cc9f0;" target="_blank">View ➝</a>
-      <p style="font-size:12px; color:#aaa;">Cybersecurity basics, threats, and protection strategies.
 
 
     </td>
