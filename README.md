@@ -35,7 +35,7 @@
     <td align="center">Apr 19, 2025</td>
     <td align="center">
       <a <a href="https://www.credly.com/users/hamzah-al-shamsi" style="color:#4cc9f0;" target="_blank">View ➝</a>
-      <p style="font-size:12px; color:#aaa;">Cybersecurity basics, threats, and protection strategies.</p>
+      <p style="font-size:12px; color:#aaa;">Cybersecurity basics, threats, and protection strategies.
 
 
     </td>
