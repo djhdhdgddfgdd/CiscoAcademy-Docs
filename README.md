@@ -34,7 +34,8 @@
     <td><b>Introduction to Cybersecurity</b></td>
     <td align="center">Apr 19, 2025</td>
     <td align="center">
-      <a href="https://www.netacad.com/profile?&tab=badges" style="color:#4cc9f0;" target="_blank">View ➝</a>
+      <a <a href="https://www.credly.com/users/hamzah-al-shamsi" style="color:#4cc9f0;" target="_blank">View ➝</a>
+
     </td>
   </tr>
 
